@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavani Sri</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavanisri-hub" alt="pavanisri-hub" /></a> </p>
-
 - 🔭 I’m currently working on [Vite-Project](https://github.com/pavanisri-hub/Vite-Project)
 
 - 🌱 I’m currently learning **React , Full Stack Development**

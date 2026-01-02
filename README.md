@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanisri-hub&label=Profile%20views&color=0e75b6&style=flat" alt="pavanisri-hub" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavanisri-hub" alt="pavanisri-hub" /></a> </p>
-
 - 🔭 I’m currently working on [Vite-Project](https://github.com/pavanisri-hub/Vite-Project)
 
 - 🌱 I’m currently learning **React , Full Stack Development**

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pavani Sri</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on [Ecommerce-Catalog](https://pavanisri-hub.github.io/AgriAssist/)
+- 🔭 I’m currently working on [Agri-Assist](https://pavanisri-hub.github.io/AgriAssist/)
 
 - 🌱 I’m currently learning **React , Full Stack Development , React Native**
 
-- 👯 I’m looking to collaborate on [multi-tenant-saas-platform](https://github.com/pavanisri-hub/multi-tenant-saas-platform.git)
+- 👯 I’m looking to collaborate on [Agri-Assist](https://pavanisri-hub.github.io/AgriAssist/)
 
 - 🤝 I’m looking for help with [AgriAssist](https://github.com/pavanisri-hub/AgriAssist.git)
 
